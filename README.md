@@ -19,6 +19,7 @@ Hi, they usually call me airgold3 and I'm a developer. I'm collaborative and inn
 ## My path on Github ☄️
 
 ![](https://github-readme-stats.vercel.app/api?username=Airgold3&show_icons=true&bg_color=34,111,000&title_color=fff&text_color=fff)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Airgold3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
