@@ -4,7 +4,7 @@ Hi, they usually call me airgold3 and I'm a developer. I'm collaborative and inn
  <br>
  Contact: <br>
 <a href="https://discord.com/login">
-<img src="https://img.shields.io/badge/<Airgold3%7708>-7289da?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/<Airgold3 7708>-7289da?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
 
 ## Programming lenguages and Technologys 🚀
