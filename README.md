@@ -18,6 +18,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql&logoColor=000)
 ![Github](https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=Github&logoColor=fff)
 ![BASH](https://img.shields.io/badge/Bash%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=lime)
+![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
 <!--![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)-->
 ## My path on Github ☄️
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Airgold3&theme=radical)
