@@ -1,8 +1,7 @@
 # About Me 👋
 <h3> Hello, they usually call me airgold3 and I'm a developer here I leave you more information about me. </h3>
 - 💻 I'm collaborative and innovative person always excited to start new and interesting project alone or in a team.
-- 📭 Contact: airgold3yt@gmail.com or <a href="https://discord.com/login">
-<img src="https://img.shields.io/badge/Airgold3 7708-7289da?style=for-the-badge&logo=discord&logoColor=white"/>
+- 📭 Contact: airgold3yt@gmail.com 
 <!--span> 
  <br>
  Contact: <br>
