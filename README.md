@@ -1,6 +1,6 @@
 # About Me 👋
 <h3> Hello, they usually call me airgold3 and I'm a developer here I leave you more information about me. </h3>
-- 💻 I'm collaborative and innovative person always excited to start new and interesting project alone or in a team.
+- 💻 I'm collaborative and innovative person always excited to start new and interesting project alone or in a team. <br>
 - 📭 Contact: airgold3yt@gmail.com 
 <!--span> 
  <br>
