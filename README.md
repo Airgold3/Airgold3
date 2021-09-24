@@ -2,7 +2,7 @@
 <h3> Hello, they usually call me airgold3 and I'm a developer here I leave you more information about me. </h3>
 - 💻 I'm collaborative and innovative person always excited to start new and interesting project alone or in a team. <br>
 - 👨🏽‍💻 I like to play with <a href="https://tryhackme.com/p/airgold3">tryhackme</a> and <a href="https://hackthebox.eu">hackthebox</a> machines from time to time. <br>
-- 📭 Contact: <a href="https://gmail.com">airgold3yt@gmail.com</a> or put a message in <a href="https://discord.com/login">Airgold3#7008</a>.
+- 📭 Contact: <a href="https://gmail.com">airgold3yt@gmail.com</a> or put a message on discord <a href="https://discord.com/login">Airgold3#7008</a>.
 <!--span> 
  <br>
  Contact: <br>
