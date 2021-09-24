@@ -1,11 +1,14 @@
 # About Me 👋
-- Hello, they usually call me airgold3 and I'm a developer. I'm collaborative and innovative person always excited to start new and interesting project alone or in a team.
-<span>
+Hello, they usually call me airgold3 and I'm a developer. 
+- 💻 I'm collaborative and innovative person always excited to start new and interesting project alone or in a team.
+- 📭 Contact: airgold3yt@gmail.com or <a href="https://discord.com/login">
+<img src="https://img.shields.io/badge/Airgold3 7708-7289da?style=for-the-badge&logo=discord&logoColor=white"/>
+<!--span> 
  <br>
  Contact: <br>
 <a href="https://discord.com/login">
 <img src="https://img.shields.io/badge/Airgold3 7708-7289da?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
+    </a-->
 
 ## Programming lenguages and Technologys 🚀
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
