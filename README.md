@@ -21,5 +21,3 @@
 <!--![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)-->
 ## My path on Github ☄️
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Airgold3&theme=radical)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
