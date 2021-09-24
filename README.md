@@ -20,6 +20,6 @@
 ![BASH](https://img.shields.io/badge/Bash%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=lime)
 <!--![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)-->
 ## My path on Github ☄️
-![](https://github-readme-stats.vercel.app/api?username=Airgold3&show_icons=true&bg_color=34,111,000&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api?username=Airgold3&show_icons=true&bg_color=34,111,000&title_color=fff&text_color=fff&theme=radical)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
