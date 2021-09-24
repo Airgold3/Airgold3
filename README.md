@@ -1,5 +1,5 @@
 # About Me 👋
-Hello, they usually call me airgold3 and I'm a developer. I'm collaborative and innovative person always excited to start new and interesting project alone or in a team.
+- Hello, they usually call me airgold3 and I'm a developer. I'm collaborative and innovative person always excited to start new and interesting project alone or in a team.
 <span>
  <br>
  Contact: <br>
