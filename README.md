@@ -1,8 +1,8 @@
-# About Me 👋
-<h3> Hello, they usually call me airgold3 and I'm a developer here I leave you more information about me. </h3>
-- 💻 I'm collaborative and innovative person always excited to start new and interesting project alone or in a team. <br>
-- 👨🏽‍💻 I like to play with <a href="https://tryhackme.com/p/airgold3">tryhackme</a> and <a href="https://hackthebox.eu">hackthebox</a>  machines to test myself and practise my skills. <br>
-- 📭 Contact: <a href="https://gmail.com">airgold3yt@gmail.com</a> or put a message on discord <a href="https://discord.com/login">Airgold3#7008</a>.
+# Sobre Mí 👋
+<h3> Hola, me suelen llamar airgold3 y soy desarrollador aquí les dejo más información sobre mí. </h3>
+- 💻 Soy una persona colaboradora e innovadora siempre emocionada de comenzar un proyecto nuevo e interesante solo o en equipo. <br>
+- 👨🏽‍💻 Me gusta jugar con <a href="https://tryhackme.com/p/airgold3">tryhackme</a> y <a href="https://hackthebox.eu">hackthebox</a>  máquinas para ponerme a prueba y practicar mis habilidades. <br>
+- 📭 Contacto:<a href="https://gmail.com">airgold3yt@gmail.com</a> o enviame un mensaje a discord<a href="https://discord.com/login">Airgold3#7008</a>.
 <!--span> 
  <br>
  Contact: <br>
@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Airgold3 7708-7289da?style=for-the-badge&logo=discord&logoColor=white"/>
     </a-->
 
-## Programming Lenguages and Technologys 🚀
+## Lenguajes de Programación y Tecnologías 🚀
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -21,5 +21,5 @@
 ![BASH](https://img.shields.io/badge/Bash%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=lime)
 ![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
 <!--![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)-->
-## My path on Github ☄️
+## Mi camino en GitHub ☄️
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Airgold3&theme=radical&text_color=fff)
