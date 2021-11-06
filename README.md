@@ -2,7 +2,7 @@
 <h3> Hola, me suelen llamar airgold3 y soy desarrollador aquí les dejo más información sobre mí. </h3>
 - 💻 Soy una persona colaboradora e innovadora siempre emocionada de comenzar un proyecto nuevo e interesante solo o en equipo. <br>
 - 👨🏽‍💻 Me gusta jugar con <a href="https://tryhackme.com/p/airgold3">tryhackme</a> y <a href="https://hackthebox.eu">hackthebox</a>  máquinas para ponerme a prueba y practicar mis habilidades. <br>
-- 📭 Contacto:<a href="https://gmail.com">airgold3yt@gmail.com</a> o enviame un mensaje a discord<a href="https://discord.com/login">Airgold3#7008</a>.
+- 📭 Contacto:<a href="https://gmail.com">airgold3yt@gmail.com</a> o enviame un mensaje a discord <a href="https://discord.com/login">Airgold3#7008</a>.
 <!--span> 
  <br>
  Contact: <br>
