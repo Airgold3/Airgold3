@@ -1,6 +1,6 @@
 # Sobre mí👋
 <h3> Hola me suelen llamar airgold3 y soy desarrollador de Back-end</h3>
-- 💻 &nbsp; Soy una persona colaboradora e innovadora siempre emocionada por iniciar un nuevo e interesante proyecto solo o en equipo. <br>
+- 💻 &nbsp; Soy una persona colaboradora e innovadora siempre emocionada por iniciar un nuevo proyecto solo o en equipo. <br>
 - 👨🏽‍💻 &nbsp; Me gusta jugar con maquinas de <a href="https://tryhackme.com/p/airgold3">tryhackme</a> y <a href="https://hackthebox.eu">hackthebox</a> de vez en cuando para ponerme a prueba y aprender sobre seguridad informática. <br>
 - 📭 &nbsp; Contacto: <a href="mailto:contact@airgold3yt@gmail.com"> Email</a> o envíame un mensaje a Discord: <a href="https://discord.com/users/447097485471514626">Airgold3#7008</a>.
 
