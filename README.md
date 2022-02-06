@@ -16,4 +16,4 @@
 ![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
 <!--![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)-->
 ## Mi camino en GitHub ☄️
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Airgold3&theme=radical&text_color=fff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Airgold3&theme=dark&text_color=fff)
